@@ -1,13 +1,13 @@
 Page({
   data: {
     title: '联系我们',
-    latitude: 31.838403,
-    longitude: 120.528958,
-    scale: 16,
+    latitude: 34.7498153300,
+    longitude: 113.7763900000,
+    scale: 20,
     markers: [{
-      latitude: 31.838403,
-      longitude: 120.528958,
-      name: '华东国际大厦5F'
+      latitude: 34.7498153300,
+      longitude: 113.7763900000,
+      name: '寿丰街50号27层2717号'
     }]
   }
 })
