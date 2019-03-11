@@ -19,7 +19,7 @@ Page({
     src: 'http://www.jsssha.com/wp-content/uploads/2016/11/%E6%8C%82%E7%89%8C.mp4',
     danmuList: [
       {
-        text: '盛世华安好棒',
+        text: '尚科好棒',
         color: '#ff0000',
         time: 1
       },

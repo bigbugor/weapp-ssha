@@ -14,8 +14,8 @@ Page({
       {
         'id': 0,
         'pic': 'http://www.jsssha.com/wp-content/uploads/2016/12/4-300x250.jpg',
-        'title': '“创新发展 再创辉煌”盛世华安2016年度圣诞主题年会圆满落幕',
-        'content': '2016年，对于盛世华安而言是一个机遇与挑战并存的一年，更是收获的一年。这一年在公司领导层的正确领导和支持下，全体员工齐心协力，顽强进取，各方面的工作都取得了一定的成绩。',
+        'title': '“创新发展 再创辉煌”尚科2016年度圣诞主题年会圆满落幕',
+        'content': '2016年，对于尚科而言是一个机遇与挑战并存的一年，更是收获的一年。这一年在公司领导层的正确领导和支持下，全体员工齐心协力，顽强进取，各方面的工作都取得了一定的成绩。',
       },
       {
         'id': 1,
@@ -35,7 +35,7 @@ Page({
    // return custom share data when user share.
    console.log('onShareAppMessage')
    return {
-      title: '盛世华安',
+      title: '尚科',
       desc: '小程序',
       path: '/pages/index/index'
     }
