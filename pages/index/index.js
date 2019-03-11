@@ -1,6 +1,6 @@
 Page({
   data: {
-    title: '江苏盛世华安智能科技有限公司',
+    title: '郑州尚科智能科技有限公司',
     swipers: [
       {'pic': 'http://www.jsssha.com/wp-content/uploads/2017/01/video.jpeg', 'link': '/pages/video/video'},
       {'pic': 'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg', 'link': ''}
@@ -20,14 +20,14 @@ Page({
       {
         'id': 1,
         'pic': 'http://www.jsssha.com/wp-content/uploads/2016/12/2-1-300x250.jpg',
-        'title': 'CCIA第七届中国物联网产业与新型智慧城市年会圆满落幕，江苏盛世华安智能科技股份有限公司',
+        'title': 'CCIA第七届中国物联网产业与新型智慧城市年会圆满落幕，郑州尚科智能科技股份有限公司',
         'content': '2016年12月16日，由工业和信息化部指导，中国通信工业协会主办，中国通信工业协会物联网应用分会承办的“第七届中国物联网产业与新型智慧城市年会”在北京万寿宾馆隆重召开。',
       },
       {
         'id': 2,
         'pic': 'http://www.jsssha.com/wp-content/uploads/2016/11/572057806235746054-300x250.jpg',
         'title': '热烈祝贺东方金汇通成功申报软件企业',
-        'content': '苏州东方金汇通智能科技有限公司是江苏盛世华安智能科技股份有限公司旗下一家专业从事智能化系统、计算机软硬件、电子产品研发的全资子公司',
+        'content': '苏州东方金汇通智能科技有限公司是郑州尚科智能科技股份有限公司旗下一家专业从事智能化系统、计算机软硬件、电子产品研发的全资子公司',
       }
     ]
   },
