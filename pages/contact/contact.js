@@ -3,7 +3,7 @@ Page({
     title: '联系我们',
     latitude: 34.7498153300,
     longitude: 113.7763900000,
-    scale: 20,
+    scale: 16,
     markers: [{
       latitude: 34.7498153300,
       longitude: 113.7763900000,
