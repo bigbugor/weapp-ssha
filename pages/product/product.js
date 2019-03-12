@@ -27,12 +27,6 @@ Page({
         'pic':'http://www.jsssha.com/wp-content/uploads/2016/10/%E6%9C%8D%E5%8A%A1%E7%AB%99%E6%AD%A3%E9%9D%A2%E5%9B%BE1-300x250.jpg',
         'title': '社区民生服务——惠民',
         'content': '随着全国各地新型智慧城市建设的快速发展，特别是进入大数据时代，智慧社区实为本地生活服务的互联网化，更加快捷方便地满足社区住户的生活'
-      },
-      {
-        'id': 1003,
-        'pic':'http://www.jsssha.com/wp-content/uploads/2016/07/%E6%83%A0%E6%B0%91%E4%B8%80%E5%8D%A1%E9%80%9A-300x250.jpg',
-        'title': '智慧一卡通',
-        'content': '公司与苏州市民卡公司、张家港社保局应用市民卡B卡深度合作，在“惠民一卡通”IC芯片中写入业主基本信息，并与NFC'
       }
     ]
   },
